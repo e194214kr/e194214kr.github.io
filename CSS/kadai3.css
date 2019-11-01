@@ -1,0 +1,25 @@
+h1{
+    color: white;
+    font-family: "impact";
+    text-align: center;
+    background-color: darkred;
+}
+
+h2{
+    color: forestgreen;
+     font-weight: bold;
+      text-align: center;
+       background-color:khaki;
+}
+
+h3{
+    color:teal;
+}
+
+p{
+   color: coral
+}
+body{
+   background-image: url("../images/04.jfif");
+/*    background-repeat: no-repeat;  */
+}

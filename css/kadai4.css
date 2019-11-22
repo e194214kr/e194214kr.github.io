@@ -1,0 +1,29 @@
+body{ background-image: url("../images/haikei2.jfif");
+}
+
+h1{
+     text-align: center;
+    background-color: aquamarine
+}
+
+h2{
+     text-align: center;
+    background-color: blueviolet;
+    color: cornsilk
+}
+
+h2#pro{
+    background-color: chartreuse;
+    color: crimson;
+}
+
+
+
+
+h1#rink{
+color: coral;
+    background-color:cadetblue 
+    
+
+}
+

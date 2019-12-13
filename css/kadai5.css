@@ -6,7 +6,6 @@ div.title{
     height;40px;
     background-color:chartreuse;
     font-size:30px;
-  //  font-family:"Impact";
 margin-bottom: 20px;
 }
 
@@ -87,7 +86,6 @@ div.footer{
     height:40px;
     background-color: cadetblue;
     text-align: right;
-//    font-size: 50px;
     margin-top: 20px;
     
 }

@@ -1,0 +1,99 @@
+
+
+
+div.title{
+    width:1000px;
+    height;40px;
+    background-color:chartreuse;
+    font-size:30px;
+  //  font-family:"Impact";
+margin-bottom: 20px;
+}
+
+
+
+div.mainbox{
+    
+   height: 320px; 
+    width: 1000px;
+    font-size: 0;
+    background-color:tan;    
+}
+
+
+
+div.menubox{
+     height: 320px; 
+    width:  250px;
+    background-color: silver;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.menu1{
+    height:100px;
+    width:250px;
+    background-color: darksalmon;
+    font-size: 20px;
+}
+
+div.menu2{
+    height:100px;
+    width:250px;
+    background-color: darksalmon;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+div.menu3{
+    height:100px;
+    width:250px;
+    background-color: darksalmon;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+
+
+div.imagebox{
+    height:320px;
+    width:700px;    
+    background-color:silver;
+    display: inline-block;
+    vertical-align: top;
+   margin-left: 50px;
+}
+
+div.image{
+    height:300px;
+    width:700px;
+    background-color: black;
+}
+
+div.bunn{
+    height:20px;
+    width:700px;
+    text-align: left;
+    font-size: 15px;
+    background-color: blue;
+
+}
+
+
+
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: cadetblue;
+    text-align: right;
+//    font-size: 50px;
+    margin-top: 20px;
+    
+}
+
+
+div.wrap{
+width : 1000px;
+margin : 0px auto;
+}

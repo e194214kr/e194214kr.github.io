@@ -1,0 +1,299 @@
+
+body{
+background-image: url("../images/haikei.jpg");
+ //   background-repeat : no-repeat;
+}
+
+
+div.title{
+    width:1000px;
+    height;100px;
+    background-image: url("../images/haikei2.jpg") ;
+     opacity: 0.9; 
+    font-size:70px;
+    color: orange;
+    font-family:"Century Gothic";
+margin-bottom: 50px;
+    text-align: center;
+}
+
+
+div.sabtitle{
+    width:1000px;
+    height;5px;
+    background-image: url("../images/haikei5.jpg") ;
+     opacity: 0.9; 
+    font-size:40px;
+    color: white;
+    font-family:"Century Gothic";
+margin-bottom: 15px;
+    text-align: left;
+}
+
+
+
+
+div.bigbox{
+    
+   height: 2700px; 
+    width:1000px;
+    font-size: 0;
+    background-color:;  
+    
+}
+
+
+
+div.hidaribox{
+    
+   height: 500px; 
+    width: 220px;
+    font-size: 0;
+//    background-color:red;  
+//    opacity: 0.55; 
+display:inline-block;
+     vertical-align: top;
+    margin-right: 55px;
+    
+}
+
+div.TOP{
+width:200px;
+    height:65px;
+    background-color: antiquewhite;
+    font-size:40px;
+    text-align: center;
+    color: darkgreen;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: 0px;
+     margin-top: -30px;
+    font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+/    opacity:0.9;
+    background-image: url("../images/mokume2.jpg");
+}
+
+div.gamemenu{
+width:200px;
+    height:65px;
+    background-color: antiquewhite;
+    font-size:40px;
+    text-align: center;
+    color: darkgreen;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: 0px;
+     margin-top: -30px;
+    font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+/    opacity:0.9;
+    background-image: url("../images/game1.jpg");
+}
+
+div.imagemenu{
+width:200px;
+    height:65px;
+    background-color: antiquewhite;
+    font-size:40px;
+    text-align: center;
+    color: darkgreen;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: 0px;
+     margin-top: -30px;
+    font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+/    opacity:0.9;
+    background-image: url("../images/y.jpg");
+}
+
+div.carmenu{
+    width:200px;
+    height:65px;
+    background-color: antiquewhite;
+    font-size:40px;
+    text-align: center;
+    color: darkgreen;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: 0px;
+     margin-top: -30px;
+    font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+/    opacity:0.9;
+    background-image: url("../images/c.jpg" );
+}
+
+
+
+
+
+div.migibox{
+    height:500px;
+    width:300px;
+    background-color:;
+    opacity: 1;
+    font-size: 20px;
+        display: inline-block;
+    vertical-align: top;
+    margin-right:0px;
+    
+    
+}
+
+div.toptext{
+    height:90px;
+    width:690px;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top:40px;
+    background-color:peachpuff;
+    display:inline-block;
+
+}
+
+div.taitoru{
+    height:40px;
+    width:690px;
+    text-align: left;
+    font-size: 30px;
+    color: greenyellow;
+    margin-top:80px;
+    background-color:black;
+    display:inline-block;
+
+}
+
+
+
+
+div.syousaitext{
+    height:150px;
+    width:350px;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top:70px;
+   margin-left:350px;
+    background-color:lightblue;
+    display:inline-block;
+ font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+}
+
+div.gsyousaitext{
+    height:100px;
+    width:350px;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top:90px;
+   margin-left:340px;
+    background-color:lightblue;
+    display:inline-block;
+ font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+}
+
+div.isyousaitext{
+    height:140px;
+    width:350px;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top:90px;
+   margin-left:340px;
+    background-color:cornsilk;
+    display:inline-block;
+ font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+}
+
+div.csyousaitext{
+    height:140px;
+    width:350px;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top:90px;
+   margin-left:340px;
+    background-color:mediumspringgreen;
+    display:inline-block;
+ font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
+}
+
+
+div.game{
+    height:300px;
+    width:300px;    
+    background-color:lavenderblush;
+    display: inline-bloc;
+    vertical-align: top;
+   margin-top: 50px;
+     background-image: url("../images/game_tetsuya_man.jpg");
+    background-size: contain;
+}
+
+
+
+div.image{
+    height:300px;
+    width:300px;    
+    background-color:white;
+/    display: inline;
+    vertical-align: top;
+   margin-top: 40px;
+     background-image: url("../images/yuuyake_yama.jpg");
+    background-size: contain;
+}
+
+div.car{
+    height:300px;
+    width:300px;    
+    background-color:gainsboro;
+/    display: inline;
+    vertical-align: top;
+    margin-top: 20px;
+     background-image: url("../images/car_tire_wheel2.jpg");
+    background-size: contain;
+}
+
+
+div.hako {
+    position: relative;
+    z-index: 1; /* 必要であればリンク要素の重なりのベース順序指定 */
+height:300px;
+    width:710px;
+    background-color: black;
+
+}
+
+
+div.hako a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-indent:-999px;
+    z-index: 2; /* 必要であればリンク要素の重なりのベース順序指定 */
+}
+
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: greenyellow;
+    text-align: right;
+//    font-size: 50px;
+    margin-top: 20px;
+    
+}
+
+div.hon{
+    width:700px;
+    color: crimson;
+    background-color: darkgrey;
+        
+}
+
+
+div.wrap{
+width : 1000px;
+margin : 0px auto;
+}

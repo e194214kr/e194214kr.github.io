@@ -92,7 +92,7 @@ width:200px;
     background-color: antiquewhite;
     font-size:40px;
     text-align: center;
-    color: darkgreen;
+    color: red;
     vertical-align: middle;
     margin-left: 10px;
     margin-bottom: 0px;
@@ -137,7 +137,7 @@ div.migibox{
 
 div.toptext{
     height:90px;
-    width:690px;
+    width:725px;
     text-align: left;
     font-size: 30px;
     color: black;
@@ -160,20 +160,6 @@ div.taitoru{
 }
 
 
-
-
-div.syousaitext{
-    height:150px;
-    width:350px;
-    text-align: left;
-    font-size: 30px;
-    color: black;
-    margin-top:70px;
-   margin-left:350px;
-    background-color:lightblue;
-    display:inline-block;
- font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
-}
 
 div.gsyousaitext{
     height:100px;
@@ -245,7 +231,7 @@ div.car{
     background-color:gainsboro;
 /    display: inline;
     vertical-align: top;
-    margin-top: 20px;
+    margin-top: 40px;
      background-image: url("../images/car_tire_wheel2.jpg");
     background-size: contain;
 }
@@ -253,9 +239,9 @@ div.car{
 
 div.hako {
     position: relative;
-    z-index: 1; /* 必要であればリンク要素の重なりのベース順序指定 */
+    z-index: 1; 
 height:300px;
-    width:710px;
+    width:725px;
     background-color: black;
 
 }
@@ -268,7 +254,7 @@ div.hako a {
     width: 100%;
     height: 100%;
     text-indent:-999px;
-    z-index: 2; /* 必要であればリンク要素の重なりのベース順序指定 */
+    z-index: 2; 
 }
 
 

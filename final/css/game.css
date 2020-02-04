@@ -34,7 +34,7 @@ margin-bottom: 15px;
 
 div.bigbox{
     
-   height: 6300px; 
+   height: 6200px; 
     width:1000px;
     font-size: 0;
     background-color:;  
@@ -149,7 +149,7 @@ div.toptext{
 
 div.taitoru{
     height:40px;
-    width:690px;
+    width:725px;
     text-align: left;
     font-size: 30px;
     color: greenyellow;
@@ -188,31 +188,7 @@ div.gsyousaitext{
  font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
 }
 
-div.isyousaitext{
-    height:140px;
-    width:350px;
-    text-align: left;
-    font-size: 30px;
-    color: black;
-    margin-top:90px;
-   margin-left:340px;
-    background-color:cornsilk;
-    display:inline-block;
- font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
-}
 
-div.csyousaitext{
-    height:140px;
-    width:350px;
-    text-align: left;
-    font-size: 30px;
-    color: black;
-    margin-top:90px;
-   margin-left:340px;
-    background-color:mediumspringgreen;
-    display:inline-block;
- font-family: "游明朝体", YuMincho, "游明朝 Medium", "Yu Mincho Medium";
-}
 
 
 div.game{
@@ -253,9 +229,9 @@ div.car{
 
 div.hako {
     position: relative;
-    z-index: 1; /* 必要であればリンク要素の重なりのベース順序指定 */
+    z-index: 1;
 height:300px;
-    width:710px;
+    width:725px;
     background-color: black;
 
 }
@@ -268,7 +244,7 @@ div.hako a {
     width: 100%;
     height: 100%;
     text-indent:-999px;
-    z-index: 2; /* 必要であればリンク要素の重なりのベース順序指定 */
+    z-index: 2;
 }
 
 

@@ -152,7 +152,7 @@ div.toptext{
 
 div.taitoru{
     height:40px;
-    width:690px;
+    width:725px;
     text-align: left;
     font-size: 30px;
     color: greenyellow;
@@ -256,7 +256,7 @@ div.car{
 
 div.hako {
     position: relative;
-    z-index: 1; /* 必要であればリンク要素の重なりのベース順序指定 */
+    z-index: 1;
 height:300px;
     width:710px;
     background-color: black;
@@ -271,7 +271,7 @@ div.hako a {
     width: 100%;
     height: 100%;
     text-indent:-999px;
-    z-index: 2; /* 必要であればリンク要素の重なりのベース順序指定 */
+    z-index: 2;
 }
 
 
@@ -286,7 +286,7 @@ div.footer{
 }
 
 div.hon{
-    width:700px;
+    width:725px;
     color: crimson;
     background-color: darkgrey;
         
